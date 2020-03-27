@@ -14,19 +14,17 @@ Find all these [course videos on YouTube](https://www.youtube.com/playlist?list=
 
 
 * Polynomial Regression
- * Feature_Mapping
- * Selecting regularisation parameter
+  * Feature_Mapping
+  * Selecting regularisation parameter
 
 * Logistic Regression
- * Linear Decision Boundary
- * Feature Mapping + Regularisation
- * Digit Classification (MNIST)
+  * Linear Decision Boundary
+  * Feature Mapping + Regularisation
+  * Digit Classification (MNIST)
 
 * Support Vector Machine
- * Linear Decision Boundary
- * Non-Linear Decision Boundary
+  * Linear Decision Boundary
+  * Non-Linear Decision Boundary
 
 * Neural Networks
- * Single Layer Digit Classification (MNIST)
-
-
+  * Single Layer Digit Classification (MNIST)
